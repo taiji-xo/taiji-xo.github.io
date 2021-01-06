@@ -43,3 +43,4 @@ exclude:
 #lang: en
 
 remote_theme : ngzhio/jekyll-theme-hamilton
+skin : midnight
